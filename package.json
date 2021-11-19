@@ -1,0 +1,22 @@
+{
+  "name": "modelos-oracle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "https": "^1.0.0",
+    "json-format": "^1.0.1",
+    "json-to-ts": "^1.7.0",
+    "prettyjson": "^1.2.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
