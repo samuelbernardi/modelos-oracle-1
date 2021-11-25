@@ -14,7 +14,8 @@
     "https": "^1.0.0",
     "json-format": "^1.0.1",
     "json-to-ts": "^1.7.0",
-    "prettyjson": "^1.2.1"
+    "prettyjson": "^1.2.1",
+    "ruglify": "^1.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
